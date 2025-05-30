@@ -102,7 +102,7 @@ This tool is **for educational and authorized red team use only**. Use of this t
 ## 👤 Author
 
 - **Donwell** - [@Jackdonwel](https://github.com/Jackdonwel)  
-- Enhanced implementation and security hardening by **Kilo Code**
+- Enhanced implementation and security hardening by **DONTECH**
 
 ---
 
