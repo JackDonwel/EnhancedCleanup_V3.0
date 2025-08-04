@@ -2,8 +2,7 @@
 # PhantomClean Elite - Ghost Protocol v3.1
 
 > Advanced Stealth Cleanup Utility for Windows Environments  
-> **Author**: Donwell  
-> **Improvements by**: Kilo Code  
+> **Author**: Donwell   
 > **Original**: `EnhancedCleanup_v1.3.bat`  
 > **Version**: 3.1 - *Ghost Protocol*
 
